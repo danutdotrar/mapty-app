@@ -343,28 +343,3 @@ class App {
 };
 
 const app = new App();
-
-
-
-
-
-// // // 233. Displaying a Map Using Leaflet Library
-
-// // // 234. Display a Map Marker whenever we click on the map
-
-// // // 235. Rendering Workout Input Form
-
-// // // 236. Project Architecture
-
-// // // 237. 
-
-// // // 238.
-
-// // // 239.
-
-// // // 240.
-
-// // // 241.
-
-// // // 242.
-
