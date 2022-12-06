@@ -1,8 +1,5 @@
 'use strict';
 
-// prettier-ignore
-
-
 let map, mapEvent;
 
 
