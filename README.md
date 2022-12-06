@@ -6,3 +6,5 @@ In this app you can log your workouts (cycling and running) and save the locatio
 Simply choose a point from the map and a new form will be opened, there you can complete the workout stats and hit enter to save them in local storage.
 
 This project was an assignment from a course, only the JS part being my contribution.
+
+Link: https://dm-mapty-app.netlify.app
